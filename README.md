@@ -12,11 +12,15 @@ This repository contains:
 - A copy of the thesis on which is based this code (in spanish), in the file `Thesis (in spanish).pdf`.
 - The list of all routines used in the main code, in the file `routines_fus_evap_code.py`.
 - The main code `main_fus_evap_code.py` which makes the calculations and shows all results in console.
-- A list of the information of all isotopes found in NuDat database (especially for mass defects) in `isotope_data_NuDat.py`.
+- A list of the information of all isotopes found in NuDat database (especially for mass defects) in `isotope_data_NuDat.py` [^1].
 
 ## Using the code
 To run the code, you need all `.py` files to be in a single folder (and working directory). Then, the main code can be compiled in your compiler of preference.
 It receives as input: mass number of projectile, atomic number of projectile, mass number of target, atomic number of target, laboratory energy of projectile, and number of cascades.
 Compiling this code returns (in console): (1) data about projectile, target and compound nucleus, (2) physical quantities related to the formation of compound nucleus, (3) list of found residues from compound evaporation (and each evaporation cross section).
 
+fisbar needs to be installed manually; see: gitlab.in2p3.fr/gregoire.henning/fisbar-python/-/tree/v001
+
 Please feel free to send me any question or suggestion to my email [ddcastiblancoc@unal.edu.co](mailto:ddcastiblancoc@unal.edu.co).
+
+[^1] www.nndc.bnl.gov/nudat3/indx_sigma.jsp
