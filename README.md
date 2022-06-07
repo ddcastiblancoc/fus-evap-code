@@ -15,7 +15,7 @@ This repository contains:
 - A list of the information of all isotopes found in NuDat database[^1] (especially for mass defects) in `isotope_data_NuDat.py`.
 
 ## Using the code
-To run the code, you need all `.py` files to be in a single folder (and working directory). Then, the main code can be compiled in your compiler of preference.
+To run the code, you need all `.py` files to be in a single folder (and that has to be the working directory). Then, the main code can be compiled in your compiler of preference.
 It receives as input: mass number of projectile, atomic number of projectile, mass number of target, atomic number of target, laboratory energy of projectile, and number of cascades.
 Compiling this code returns (in console): (1) data about projectile, target and compound nucleus, (2) physical quantities related to the formation of compound nucleus, (3) list of found residues from compound evaporation (and each evaporation cross section).
 
