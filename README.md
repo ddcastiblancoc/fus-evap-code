@@ -12,7 +12,7 @@ This repository contains:
 - A copy of the thesis on which is based this code (in spanish), in the file `Thesis (in spanish).pdf`.
 - The list of all routines used in the main code, in the file `routines_fus_evap_code.py`.
 - The main code `main_fus_evap_code.py` which makes the calculations and shows all results in console.
-- A list of the information of all isotopes found in NuDat database (especially for mass defects) in `isotope_data_NuDat.py` [^1].
+- A list of the information of all isotopes found in NuDat database[^1] (especially for mass defects) in `isotope_data_NuDat.py`.
 
 ## Using the code
 To run the code, you need all `.py` files to be in a single folder (and working directory). Then, the main code can be compiled in your compiler of preference.
@@ -23,4 +23,4 @@ fisbar needs to be installed manually; see: gitlab.in2p3.fr/gregoire.henning/fis
 
 Please feel free to send me any question or suggestion to my email [ddcastiblancoc@unal.edu.co](mailto:ddcastiblancoc@unal.edu.co).
 
-[^1] www.nndc.bnl.gov/nudat3/indx_sigma.jsp
+[^1]: www.nndc.bnl.gov/nudat3/indx_sigma.jsp
