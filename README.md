@@ -21,5 +21,5 @@ The code needs the input information of a reaction of interest, and outputs the 
 
 Please feel free to send me any question or suggestion to my email [ddcastiblancoc@unal.edu.co](mailto:ddcastiblancoc@unal.edu.co).
 
-[^1]: National Nuclear Data Center, [NuDat 3.0 database,](www.nndc.bnl.gov/nudat3/indx_sigma.jsp) Consulted in January 22, 2022. (2019).
-[^2]: gitlab.in2p3.fr/gregoire.henning/fisbar-python/-/tree/v001
+[^1]: www.nndc.bnl.gov/nudat3/indx_sigma.jsp.
+[^2]: gitlab.in2p3.fr/gregoire.henning/fisbar-python/-/tree/v001.
