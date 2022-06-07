@@ -11,7 +11,7 @@ This repository contains:
 - A copy of the thesis on which is based this code (in spanish), in the file `Thesis (in spanish).pdf`.
 - The list of all routines used in the main code, in the file `routines_fus_evap_code.py`.
 - The main code `main_fus_evap_code.py` which makes the calculations and shows all results in console.
-- A list of the information of all isotopes found in NuDat database[^1] (at jan-22-2022) in `isotope_data_NuDat.py`.
+- A list of the information of all isotopes found in NuDat database[^1] (at jan-22-2022) in `isotope_data_NuDat.txt`.
 
 ## Using the code
 To run the code, you need all `.py` files to be in a single folder (and that has to be the working directory). Then, the main code can be compiled normally in your compiler of preference. The code uses common Python libraries like `numpy`, `pandas`, `scipy`, `random`, `joblib`, `multiprocessing`, `collections` and `time`, so make sure those are installed. It needs an additional library which needs to be installed manually via `pip`: `fisbar` by G. Henning[^2].
