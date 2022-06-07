@@ -15,11 +15,11 @@ This repository contains:
 - A list of the information of all isotopes found in NuDat database[^1] (especially for mass defects) in `isotope_data_NuDat.py`.
 
 ## Using the code
-To run the code, you need all `.py` files to be in a single folder (and that has to be the working directory). Then, the main code can be compiled normally in your compiler of preference. The code uses common libraries like `numpy`, `pandas`, `scipy`, `random`, `joblib` `multiprocessing`, `collections` and `time`, so make sure those are installed. It needs an additional library which needs to be installed manually via `pip`: `fisbar`[^2].
+To run the code, you need all `.py` files to be in a single folder (and that has to be the working directory). Then, the main code can be compiled normally in your compiler of preference. The code uses common libraries like `numpy`, `pandas`, `scipy`, `random`, `joblib`, `multiprocessing`, `collections` and `time`, so make sure those are installed. It needs an additional library which needs to be installed manually via `pip`: `fisbar`[^2].
 
 The code needs the input information of a reaction of interest, and outputs the results of the reaction in console. Especifically, it receives as input: mass number of projectile, atomic number of projectile, mass number of target, atomic number of target, laboratory energy of projectile, and number of cascades. It returns: (1) data about projectile, target and compound nucleus, (2) physical quantities related to the formation of compound nucleus, (3) list of found residues from compound evaporation (and each evaporation cross section).
 
 Please feel free to send me any question or suggestion to my email [ddcastiblancoc@unal.edu.co](mailto:ddcastiblancoc@unal.edu.co).
 
-[^1]: www.nndc.bnl.gov/nudat3/indx_sigma.jsp
+[^1]: National Nuclear Data Center, [NuDat 3.0 database,](www.nndc.bnl.gov/nudat3/indx_sigma.jsp) Consulted in January 22, 2022. (2019).
 [^2]: gitlab.in2p3.fr/gregoire.henning/fisbar-python/-/tree/v001
