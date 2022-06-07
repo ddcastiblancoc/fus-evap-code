@@ -10,3 +10,5 @@ This code uses Bass model and Wong formula (or classical) to calculate fusion cr
 ## Using the code
 It receives as input: mass number of projectile, atomic number of projectile, mass number of target, atomic number of target, laboratory energy of projectile, and number of cascades.
 Compiling this code returns (in console): (1) data about projectile, target and compound nucleus, (2) physical quantities related to the formation of compound nucleus, (3) list of found residues from compound evaporation (and each evaporation cross section).
+
+## References
