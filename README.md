@@ -9,8 +9,8 @@ This code uses Bass model and Wong formula (or classical) to calculate fusion cr
 
 ## Contents
 This repository contains:
--owo
--uwu
+- owo
+- uwu
 
 ## Using the code
 It receives as input: mass number of projectile, atomic number of projectile, mass number of target, atomic number of target, laboratory energy of projectile, and number of cascades.
