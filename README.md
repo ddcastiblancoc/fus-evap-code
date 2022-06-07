@@ -9,7 +9,7 @@ This code uses Bass model and Wong formula (or classical) to calculate fusion cr
 
 ## Contents
 This repository contains:
-- owo
+- A copy of the thesis on which is based this code (in spanish), in the file `Thesis (in spanish).pdf`.
 - uwu
 
 ## Using the code
