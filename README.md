@@ -10,7 +10,9 @@ This code uses Bass model and Wong formula (or classical) to calculate fusion cr
 ## Contents
 This repository contains:
 - A copy of the thesis on which is based this code (in spanish), in the file `Thesis (in spanish).pdf`.
-- uwu
+- The list of all routines used in the main code, in the file `routines_fus_evap_code.py`.
+- The main code `main_fus_evap_code.py` which makes the calculations and shows all results in console.
+- A list of the information of all isotopes found in NuDat database (especially for mass defects) in `isotope_data_NuDat.py`.
 
 ## Using the code
 It receives as input: mass number of projectile, atomic number of projectile, mass number of target, atomic number of target, laboratory energy of projectile, and number of cascades.
