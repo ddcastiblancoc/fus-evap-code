@@ -8,7 +8,7 @@ Then, given a target and projectile nucleus (at a certain energy), this code is 
 
 ## Contents
 This repository contains:
-- A copy of the thesis on which is based this code (in spanish), in the file `Thesis (in spanish).pdf`.
+- A copy of the thesis on which is based this code (in spanish), in the file `Thesis (in Spanish).pdf`.
 - The list of all routines used in the main code, in the file `routines_fus_evap_code.py`.
 - The main code `main_fus_evap_code.py` which makes the calculations and shows all results in console.
 - A list of the information of all isotopes found in NuDat database[^1] (at jan-22-2022) in `isotope_data_NuDat.txt`.
