@@ -20,6 +20,6 @@ The code needs the input information of a reaction of interest, and outputs the 
 
 Please feel free to send me any question or suggestion to my email [ddcastiblancoc@unal.edu.co](mailto:ddcastiblancoc@unal.edu.co).
 
-[^1]: Castiblanco, D. (2024). Cross section estimation for heavy ion nuclear reactions with a cascade code of fusion evaporation. MOMENTO, (68), 52–68. [https://doi.org/10.15446/mo.n68.106810](https://revistas.unal.edu.co/index.php/momento/article/view/106810)
+[^1]: Castiblanco, D. (2024). Cross section estimation for heavy ion nuclear reactions with a cascade code of fusion evaporation. MOMENTO, (68), 52–68. [https://doi.org/10.15446/mo.n68.106810](https://doi.org/10.15446/mo.n68.106810)
 [^2]: https://www.nndc.bnl.gov/nudat3/indx_sigma.jsp.
 [^3]: https://gitlab.in2p3.fr/gregoire.henning/fisbar-python/-/tree/v001.
